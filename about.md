@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Student in University of Washington.
+Interested in Full-Stack Web Develop Position.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Proficient in Java and JavaScript. Have a solid knowledge in Computer Network.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[xuhao@uw.edu](mailto:xuhao@uw.edu)
