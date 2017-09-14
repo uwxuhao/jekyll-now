@@ -8,7 +8,7 @@ title: JavaScript execution context
 The execution context of a function or variable defines what other data it has access to, and how it should behave. Each execution context has an assocaited variable object upon which all of its defined variables and functions exists.
 
 ### Example ###
-The object for thw global context is _window_. All the global variables and functions are created as properties and methods of _window_.
+The object for the global context is _window_. All the global variables and functions are created as properties and methods of _window_.
 
 Each function has its own execution context. When the code execution flows into a function, the execution context of that function will be pushed into the context stack. After the function is finished, the context of that function is poped and let the previous context to take control.
 
