@@ -37,7 +37,7 @@ class Solution {
 
 The _Arrays.asList()_ can convert an _Array_ to _Collection_, but when using the _Arrays.asList()_, the size of the _Collection_ is fixed. That mean the user cannot change the size of the _Collection_ again. That is because the underlying representation of the list is _Array_.
 
-Another problem about _Arrays.asList()_ is this function takes a best guess about the resulting type of the _List_, and does not pay attention to what you are assigning it to.
+Another problem about _Arrays.asList()_ is this function takes a best guess about the resulting type of the _List_, and does not pay attention to what you are assigning it to. (It seems that the problem has been fixed in Java 8)
 
 ```java
 import java.util.*;
