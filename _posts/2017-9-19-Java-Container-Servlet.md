@@ -119,6 +119,3 @@ getServletContext().setAttribute("dog", new Dog());
 
 getServletContext().getAttribute("dog");
 ```
-
-### Scope ###
-![Scope](images/servlet-scope.jpeg)
